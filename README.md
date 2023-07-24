@@ -1,2 +1,2 @@
-# section-1
-Section-1 of my puzzle
+Section 1 of the puzzle.
+Do <b>not</b> send me questions about the puzzle, ask othe contestants.
